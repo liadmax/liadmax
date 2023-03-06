@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liadmax
 - 👀 I’m interested in ..lerning new things
-- 🌱 I’m currently a full stack
+- 🌱 I’m currently a full stack team leader
 - 💞️ I’m looking to collaborate on .../?\
 - 📫 How to reach me . email- shapiraliad@gmail.com
 
